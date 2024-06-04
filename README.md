@@ -1,5 +1,15 @@
 API .NET 6 GraphQL Com Azure SQLServer 
-Desafio IMPAR
+
+## Desafio IMPAR
+
+Esse é o repo do Backend(API) do desafio IMPAR
+
+O WebApp está hospedado no Azure WebAPP Informado pela empresa
+
+Para a visualização do Schema para as Queries e Mutations acesse a API com o link abaixo:
+
+[Link da API Funcional já no AZURE WebApp](https://app-eiglimarsilvacostajunior-api.azurewebsites.net/graphql/).
+
 
 # GraphQL
 
