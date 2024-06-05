@@ -31,5 +31,13 @@ namespace CarPhotoAPI.GraphQL
                                 .Include(c => c.Photo)
                                 .FirstOrDefaultAsync(c => c.Id == id);
         }
+
+        public async Task<List<Car>> PegaCarrosPorNomeAsync([Service] CarPhotoContext context, string nome)
+        {
+            return await context.Cars
+                                .Include(c => c.Photo)
+                                .Where(c => c.Name.Contains(nome))
+                                .ToListAsync();
+        }
     }
 }
