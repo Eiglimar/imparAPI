@@ -10,6 +10,14 @@ Para a visualização do Schema para as Queries e Mutations acesse a API com o l
 
 [Link da API Funcional já no AZURE WebApp](https://app-eiglimarsilvacostajunior-api.azurewebsites.net/graphql/).
 
+Queries Schema definitions
+
+![image](https://github.com/Eiglimar/imparAPI/assets/8235182/310b2b21-97f0-49f9-8e22-7d997cf47f2f)
+
+Mutations Schema definitions
+![image](https://github.com/Eiglimar/imparAPI/assets/8235182/366ae2e3-b108-4765-a4b0-aba7cbc37d7e)
+
+
 
 # GraphQL
 
